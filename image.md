@@ -1,1 +1,10 @@
 ![크롤링캡쳐1](https://user-images.githubusercontent.com/81945553/127778397-5a0917f1-28cc-4d19-a726-b59bafd5629a.png)
+
+
+![sec9캡처1](https://user-images.githubusercontent.com/81945553/128006178-08ec6a07-712d-47f0-8a20-7b0d395eddef.png)
+![sec9캡처2](https://user-images.githubusercontent.com/81945553/128006183-16e36d8f-d198-441d-be71-4c3fe9abce74.png)
+![sec9캡처3](https://user-images.githubusercontent.com/81945553/128006184-019f5b0a-65bc-4d0c-b580-77feb966d1b7.png)
+![sec9캡처4](https://user-images.githubusercontent.com/81945553/128006186-413ab676-2b34-4282-9bff-e5e2cb139a7b.png)
+![sec9캡처5](https://user-images.githubusercontent.com/81945553/128006193-bfeea379-11b5-4375-a37b-b0b7fcfc9fea.png)
+![sec9캡처6](https://user-images.githubusercontent.com/81945553/128006194-426bcdf7-5f57-4507-adf4-0a5d24a7c9c2.png)
+![sec9캡처7](https://user-images.githubusercontent.com/81945553/128006199-689c7392-bfd8-4464-99b3-7ed26ff61b28.png)
