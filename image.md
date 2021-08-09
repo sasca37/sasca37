@@ -25,3 +25,4 @@
 ![sec8  사진2](https://user-images.githubusercontent.com/81945553/128701705-e79cfa79-3278-4e08-a0be-ee55455ad7f2.png)
 ![sec8  사진3](https://user-images.githubusercontent.com/81945553/128701823-a159e5ee-39d4-4c65-8e2a-fa9cd233f202.png)
 ![sec1  사진1](https://user-images.githubusercontent.com/81945553/128744298-6be5d916-7e1b-4ba2-9596-fbb487a81b99.png)
+![sec1  사진2](https://user-images.githubusercontent.com/81945553/128745228-5b9172ae-0be0-4368-8010-aad168410fbf.png)
