@@ -34,3 +34,4 @@
 ![sec4  사진5](https://user-images.githubusercontent.com/81945553/128953368-d5bf56df-b1ce-45c5-865c-7f0298334c7f.png)
 ![sec4  사진6](https://user-images.githubusercontent.com/81945553/128954461-12d8e20d-5854-4019-8606-a5b422c21f30.png)
 
+![sec6  사진1](https://user-images.githubusercontent.com/81945553/129221735-821c58a5-2c4f-4b2f-a694-665de4a6c441.png)
