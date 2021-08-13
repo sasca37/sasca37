@@ -35,3 +35,9 @@
 ![sec4  사진6](https://user-images.githubusercontent.com/81945553/128954461-12d8e20d-5854-4019-8606-a5b422c21f30.png)
 
 ![sec6  사진1](https://user-images.githubusercontent.com/81945553/129221735-821c58a5-2c4f-4b2f-a694-665de4a6c441.png)
+![sec6  사진2](https://user-images.githubusercontent.com/81945553/129235056-0fa06d51-da4e-4f3a-aca2-a3b4ca2e479d.png)
+
+
+![sec7  사진1](https://user-images.githubusercontent.com/81945553/129288150-3141d94f-8410-4fea-809f-45d97f682fcf.png)
+![sec7  사진2](https://user-images.githubusercontent.com/81945553/129313741-30f8723c-1a19-4ebc-9304-860ba6ee0288.png)
+![sec7  사진3](https://user-images.githubusercontent.com/81945553/129314127-358caa0e-39f4-4b29-a71f-7d720c74ab37.png)
