@@ -41,3 +41,24 @@
 ![sec7  사진1](https://user-images.githubusercontent.com/81945553/129288150-3141d94f-8410-4fea-809f-45d97f682fcf.png)
 ![sec7  사진2](https://user-images.githubusercontent.com/81945553/129313741-30f8723c-1a19-4ebc-9304-860ba6ee0288.png)
 ![sec7  사진3](https://user-images.githubusercontent.com/81945553/129314127-358caa0e-39f4-4b29-a71f-7d720c74ab37.png)
+
+
+![sec1  사진1](https://user-images.githubusercontent.com/81945553/129320012-9379e858-5184-4c84-8d2b-4beb6d6ed78b.png)
+![sec1  사진2](https://user-images.githubusercontent.com/81945553/129321604-3c2f2829-455c-45c2-9ff9-eefaabc9769a.png)
+![sec1  사진3](https://user-images.githubusercontent.com/81945553/129325763-bf1f39ec-737e-4a87-937c-2f29a8e90f88.png)
+![sec1  사진4](https://user-images.githubusercontent.com/81945553/129325822-2de404f9-040b-418c-8b05-9598abe47aa8.png)
+![sec1  사진5](https://user-images.githubusercontent.com/81945553/129328663-2d5329f5-b17f-48a5-b823-09af1ce50940.png)
+
+
+![sec2  사진1](https://user-images.githubusercontent.com/81945553/129336482-6c76c267-96c2-48f3-a7a1-32a12bbae72e.png)
+![sec3  사진1](https://user-images.githubusercontent.com/81945553/129342804-11de444d-123d-479f-94f8-fcf56aecd562.png)
+![sec3  사진2](https://user-images.githubusercontent.com/81945553/129343371-1c367bcb-fd13-4f14-a36f-6c41ed416982.png)
+![sec3  사진3](https://user-images.githubusercontent.com/81945553/129344319-755a66f1-e511-400b-8145-9742e240d6b7.png)
+![sec3  사진4](https://user-images.githubusercontent.com/81945553/129346487-3a3440bf-68f6-4817-b853-f4a09c184842.png)
+
+![sec4  사진1](https://user-images.githubusercontent.com/81945553/129357214-d7d7ac05-4ef7-4d3d-ae5b-8f9ca0dc8490.png)
+![sec4  사진2](https://user-images.githubusercontent.com/81945553/129357865-9f30a794-4afc-4a04-a78e-d097199ea1be.png)
+![sec4  사진3](https://user-images.githubusercontent.com/81945553/129361304-1fbd82be-ca0a-4965-9777-7fcd8ef999e1.png)
+![sec4  사진4](https://user-images.githubusercontent.com/81945553/129361508-5c3f2d4a-3730-4f1e-bd4e-5d4f70e78f43.png)
+![sec4  사진5](https://user-images.githubusercontent.com/81945553/129437370-c263b6a9-7b87-40d4-a1e3-2c7b6b877fd8.png)
+
