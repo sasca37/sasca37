@@ -61,4 +61,7 @@
 ![sec4  사진3](https://user-images.githubusercontent.com/81945553/129361304-1fbd82be-ca0a-4965-9777-7fcd8ef999e1.png)
 ![sec4  사진4](https://user-images.githubusercontent.com/81945553/129361508-5c3f2d4a-3730-4f1e-bd4e-5d4f70e78f43.png)
 ![sec4  사진5](https://user-images.githubusercontent.com/81945553/129437370-c263b6a9-7b87-40d4-a1e3-2c7b6b877fd8.png)
+![sec4  사진6](https://user-images.githubusercontent.com/81945553/129437630-20953c69-9448-4919-a7b4-9106064850f7.png)
+![sec4  사진7](https://user-images.githubusercontent.com/81945553/129437940-f6c40bd1-3464-4bbe-8157-1d2fc542e6ea.png)
+![sec4  사진8](https://user-images.githubusercontent.com/81945553/129438079-59aeb529-562e-4845-9ab8-0adb99d942b7.png)
 
