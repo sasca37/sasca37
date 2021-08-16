@@ -70,3 +70,5 @@
 
 ![sec3  사진1](https://user-images.githubusercontent.com/81945553/129552344-3747e1cc-3332-4957-ae08-8bf233e5bf8a.png)
 ![사진1](https://user-images.githubusercontent.com/81945553/129589399-e13d2e66-47f0-4c73-b9eb-96f6aacc58fb.png)
+![사진2](https://user-images.githubusercontent.com/81945553/129591820-6971a09d-df9e-423d-b719-96cebd591723.png)
+
