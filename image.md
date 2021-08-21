@@ -1,7 +1,7 @@
 ![sec2  사진1](https://user-images.githubusercontent.com/81945553/128839273-571245ac-8b10-49fe-a100-88b1b1a32dc8.png)
 
 ![크롤링캡쳐1](https://user-images.githubusercontent.com/81945553/127778397-5a0917f1-28cc-4d19-a726-b59bafd5629a.png)
-
+.
 
 ![sec9캡처1](https://user-images.githubusercontent.com/81945553/128006178-08ec6a07-712d-47f0-8a20-7b0d395eddef.png)
 ![sec9캡처2](https://user-images.githubusercontent.com/81945553/128006183-16e36d8f-d198-441d-be71-4c3fe9abce74.png)
