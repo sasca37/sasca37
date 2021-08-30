@@ -3,7 +3,7 @@
 ![1-3](https://user-images.githubusercontent.com/81945553/130905072-62a7b379-a762-49b8-bf08-92e6e47d3f0f.png)
 
 ![크롤링캡쳐1](https://user-images.githubusercontent.com/81945553/127778397-5a0917f1-28cc-4d19-a726-b59bafd5629a.png)
-..as
+..asasd
 
 ![sec9캡처1](https://user-images.githubusercontent.com/81945553/128006178-08ec6a07-712d-47f0-8a20-7b0d395eddef.png)
 ![sec9캡처2](https://user-images.githubusercontent.com/81945553/128006183-16e36d8f-d198-441d-be71-4c3fe9abce74.png)
