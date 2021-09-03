@@ -13,7 +13,7 @@
 ![sec9캡처5](https://user-images.githubusercontent.com/81945553/128006193-bfeea379-11b5-4375-a37b-b0b7fcfc9fea.png)
 ![sec9캡처6](https://user-images.githubusercontent.com/81945553/128006194-426bcdf7-5f57-4507-adf4-0a5d24a7c9c2.png)
 ![sec9캡처7](https://user-images.githubusercontent.com/81945553/128006199-689c7392-bfd8-4464-99b3-7ed26ff61b28.png)
-..
+..ㅁㄴㅇㅁㄴ
 ...
 ![sec3  사진1](https://user-images.githubusercontent.com/81945553/128594643-0f61e939-e8c8-4487-8720-762a018d3887.png)
 ![sec3  사진2](https://user-images.githubusercontent.com/81945553/128594644-502559a4-5199-4776-a6fb-8d027d6ce39a.png)
