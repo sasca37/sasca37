@@ -4,6 +4,7 @@
 ![1-3](https://user-images.githubusercontent.com/81945553/130905072-62a7b379-a762-49b8-bf08-92e6e47d3f0f.png)
 ![크롤링캡쳐1](https://user-images.githubusercontent.com/81945553/127778397-5a0917f1-28cc-4d19-a726-b59bafd5629a.png)
 <img width="549" alt="사진1" src="https://user-images.githubusercontent.com/81945553/131646439-7c21fe1a-076e-473c-aa7f-0d783d032a1e.png">
+![스택1](https://user-images.githubusercontent.com/81945553/132119883-c2e0076e-3b99-4d14-ba69-5704dae8dd40.png)
 
 ![sec9캡처1](https://user-images.githubusercontent.com/81945553/128006178-08ec6a07-712d-47f0-8a20-7b0d395eddef.png)
 ![sec9캡처2](https://user-images.githubusercontent.com/81945553/128006183-16e36d8f-d198-441d-be71-4c3fe9abce74.png)
