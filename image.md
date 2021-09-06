@@ -5,6 +5,20 @@
 ![크롤링캡쳐1](https://user-images.githubusercontent.com/81945553/127778397-5a0917f1-28cc-4d19-a726-b59bafd5629a.png)
 <img width="549" alt="사진1" src="https://user-images.githubusercontent.com/81945553/131646439-7c21fe1a-076e-473c-aa7f-0d783d032a1e.png">
 <img width="566" alt="사진2" src="https://user-images.githubusercontent.com/81945553/131794097-1a829e74-1b12-4a3e-a842-0c3c13d0fc83.png">
+![함수1](https://user-images.githubusercontent.com/81945553/132239253-50023fcd-c844-4c2a-b49f-207b91014d0b.png)
+![함수2](https://user-images.githubusercontent.com/81945553/132239564-2de99fab-b7ca-4a5a-834a-bf699c6dd0f8.png)
+![함수3](https://user-images.githubusercontent.com/81945553/132239807-09039c05-b667-4621-8aa6-e90b53aea48f.png)
+![함수4](https://user-images.githubusercontent.com/81945553/132240118-005c5e5c-19bd-4ca1-9c07-fe6f9e23fc6a.png)
+![image](https://user-images.githubusercontent.com/81945553/132240432-592c2896-6923-4069-b809-fe68b7508c69.png)
+![image](https://user-images.githubusercontent.com/81945553/132240740-d89a1974-8997-49ab-a388-5e07dde92b19.png)
+![image](https://user-images.githubusercontent.com/81945553/132243051-aee9f26c-e372-452f-a630-0dd83c34a09f.png)
+![image](https://user-images.githubusercontent.com/81945553/132243332-517f7541-9636-4432-8dcd-253b05e22ae6.png)
+![image](https://user-images.githubusercontent.com/81945553/132243416-c98739a4-1148-4f4d-ab41-e4e55c7767f9.png)
+![image](https://user-images.githubusercontent.com/81945553/132251495-04c30ec4-9942-4e37-a03c-8e07a9128524.png)
+![image](https://user-images.githubusercontent.com/81945553/132251717-fe562731-cf88-47a9-8022-67523f11bfda.png)
+![image](https://user-images.githubusercontent.com/81945553/132251771-0c2cfd9d-95de-41a6-b4e2-5a148e01bccf.png)
+![image](https://user-images.githubusercontent.com/81945553/132251780-60251dd0-460c-41ef-b246-11128ead7753.png)
+![image](https://user-images.githubusercontent.com/81945553/132251882-2c84f0f1-e5e7-4296-bbcb-845bb71b668f.png)
 
 ![sec9캡처1](https://user-images.githubusercontent.com/81945553/128006178-08ec6a07-712d-47f0-8a20-7b0d395eddef.png)
 ![sec9캡처2](https://user-images.githubusercontent.com/81945553/128006183-16e36d8f-d198-441d-be71-4c3fe9abce74.png)
