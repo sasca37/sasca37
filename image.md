@@ -8,6 +8,7 @@
 ![image](https://user-images.githubusercontent.com/81945553/132449764-ede4fe8a-af68-40cf-b870-1bafd6ebbd82.png)
 ![image](https://user-images.githubusercontent.com/81945553/132627300-7fccc439-92d0-497c-8787-16701841ebee.png)
 ![image](https://user-images.githubusercontent.com/81945553/132627385-c1dc3d75-9e2c-4349-9a01-83c24df7b612.png)
+![image](https://user-images.githubusercontent.com/81945553/132843489-0c3360cc-274c-459d-9616-1be75e35e8ae.png)
 
 ![크롤링캡쳐1](https://user-images.githubusercontent.com/81945553/127778397-5a0917f1-28cc-4d19-a726-b59bafd5629a.png)
 <img width="549" alt="사진1" src="https://user-images.githubusercontent.com/81945553/131646439-7c21fe1a-076e-473c-aa7f-0d783d032a1e.png">
