@@ -1,4 +1,4 @@
-![sec2  사진1](https://user-images.githubusercontent.com/81945553/128839273-571245ac-8b10-49fe-a100-88b1b1a32dc8.png)
+
 ![1-2](https://user-images.githubusercontent.com/81945553/130905051-ec3865f7-79bb-4c84-bffe-eede35a231df.png)
 ![1-3](https://user-images.githubusercontent.com/81945553/130905072-62a7b379-a762-49b8-bf08-92e6e47d3f0f.png)
 ![image](https://user-images.githubusercontent.com/81945553/133508123-b578f06f-ff35-4c1c-ab89-ad8425dfa050.png)
