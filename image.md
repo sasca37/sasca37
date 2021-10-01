@@ -128,8 +128,6 @@
 ![image](https://user-images.githubusercontent.com/81945553/133507161-0cedf42b-9089-4ea6-99d0-880b6130da60.png)
 
 ![크롤링캡쳐1](https://user-images.githubusercontent.com/81945553/127778397-5a0917f1-28cc-4d19-a726-b59bafd5629a.png)
-<img width="549" alt="사진1" src="https://user-images.githubusercontent.com/81945553/131646439-7c21fe1a-076e-473c-aa7f-0d783d032a1e.png">
-<img width="566" alt="사진2" src="https://user-images.githubusercontent.com/81945553/131794097-1a829e74-1b12-4a3e-a842-0c3c13d0fc83.png">
 ![함수1](https://user-images.githubusercontent.com/81945553/132239253-50023fcd-c844-4c2a-b49f-207b91014d0b.png)
 ![함수2](https://user-images.githubusercontent.com/81945553/132239564-2de99fab-b7ca-4a5a-834a-bf699c6dd0f8.png)
 ![함수3](https://user-images.githubusercontent.com/81945553/132239807-09039c05-b667-4621-8aa6-e90b53aea48f.png)
