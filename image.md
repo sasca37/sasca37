@@ -227,7 +227,6 @@
 ![사진2](https://user-images.githubusercontent.com/81945553/129591820-6971a09d-df9e-423d-b719-96cebd591723.png)
 
 ![sec7  사진1](https://user-images.githubusercontent.com/81945553/130044652-827ad9e1-887c-46c2-87d8-e6bcd3aa2e7e.png)
-....
 ![사진1](https://user-images.githubusercontent.com/81945553/130498187-0b406681-5329-40bc-93e1-7bad9c908a1b.png)
 ![사진 2](https://user-images.githubusercontent.com/81945553/130502379-10f77906-2d9d-4756-ba28-c5c969ea9ad1.png)
 
