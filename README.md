@@ -16,8 +16,6 @@
 - BackEnd Developer
 - Android 
  
-🔭 I’m currently working on ...
-
 
 <!--
 https://simpleicons.org/ 참고 
