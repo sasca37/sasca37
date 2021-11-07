@@ -19,7 +19,8 @@
 🤔 Interested in 
 ---
 - BackEnd Developer
-- Android 
+ - Java
+ - Spring Boot
  
 ⭐ Tech Stack
 ---
