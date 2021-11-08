@@ -21,6 +21,7 @@
 - BackEnd Developer
  - Java
  - Spring Boot
+ - Spring Data JPA
  
 ⭐ Tech Stack
 ---
