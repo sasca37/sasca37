@@ -26,22 +26,16 @@
 백엔드 개발자가 되고 싶은 대학교 4학년 정재욱 입니다. 
 
 
-🤔 Interested in 
+⭐ Interested in 
 ---
 - BackEnd Developer
- - Java
- - Spring Boot
- - Spring Data JPA
- 
-⭐ Tech Stack
----
-- Java, python
-- Spring Boot, Spring MVC, Spring Data JPA
-- Querydsl, JPA
-- Junit4, Junit5 
-- Gradle 
-
-
+   - Spring Boot
+       - Java, Spring MVC, Spring Data JPA
+       - Querydsl, JPA
+       - Junit4, Junit5 
+       - Gradle 
+- Clean Code 
+- TDD
 
 
 
