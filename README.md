@@ -1,9 +1,9 @@
+ <!--
 <div align="center">
  
 
 </br>
 <p align="center">
- <!--
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
@@ -21,7 +21,7 @@
 
 </div>
 
-😄 **About Me**
+🌱 **About Me**
 ---
 
 💬 Hi! I'm backend developer using Spring Boot and Java. 
