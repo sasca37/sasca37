@@ -24,7 +24,7 @@
 🌱 **About Me**
 ---
 
-💬 Hi! I'm backend developer using Spring Boot and Java. 
+💬 Hi! I'm **backend developer** using Spring Boot and Java. 
 
 
 🛠 **Teck Stack** 
