@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/MariaDB-47A248?style=flat-square&logo=MariaDB&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp  -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasca37&show_icons=true&theme=buefy)
+
 😄 About me 
 ---
 백엔드 개발자가 되고 싶은 대학교 4학년 정재욱 입니다. 
@@ -31,7 +33,8 @@
 - Junit4, Junit5 
 - Gradle 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasca37&show_icons=true&theme=radical)
+
+
 
 
 <!--
