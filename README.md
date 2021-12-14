@@ -25,8 +25,8 @@
 🌱 About Me 🌱
 ---
 
-💬 Hi! I'm **backend developer** using Spring Boot and Java. 
-The reason I want to be a developer is through the first application development.
+💬 Hi! I'm **backend developer** using Spring Boot and Java.   
+The reason I want to be a developer is through the first application development.  
 It was because of the sense of accomplishment that improved daily discomfort.
 
 
