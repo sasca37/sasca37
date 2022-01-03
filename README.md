@@ -51,7 +51,7 @@ It was because of the sense of accomplishment that improved daily discomfort.
 - TDD
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sasca37})](https://solved.ac/{sasca37})
+sasca37](http://mazassumnida.wtf/api/v2/generate_badge?boj=sasca37)](https://solved.ac/sasca37)
 
 <!--
 https://simpleicons.org/ 참고 
