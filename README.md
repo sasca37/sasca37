@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/MariaDB-47A248?style=flat-square&logo=MariaDB&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 
-
 -->
  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasca37&show_icons=true&theme=buefy) -->
 
@@ -53,8 +52,9 @@ It was because of the sense of accomplishment that improved daily discomfort.
 [![Solved.ac
 sasca37](http://mazassumnida.wtf/api/v2/generate_badge?boj=sasca37)](https://solved.ac/sasca37)
 
+
 <!--
-https://simpleicons.org/ 참고 
+https://simpleicons.org/ 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp 
