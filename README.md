@@ -1,7 +1,5 @@
  <!--
 <div align="center">
- 
-
 </br>
 <p align="center">
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
