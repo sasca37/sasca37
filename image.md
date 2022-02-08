@@ -229,6 +229,7 @@
 ![image](https://user-images.githubusercontent.com/81945553/132969541-d955c5c9-842c-476f-96eb-372d180a2f30.png)
 ![image](https://user-images.githubusercontent.com/81945553/132969679-8d148dab-d958-46ea-8c4e-bf50355315d2.png)
 ![image](https://user-images.githubusercontent.com/81945553/133507161-0cedf42b-9089-4ea6-99d0-880b6130da60.png)
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/81945553/152988397-e8d06806-4bf7-401e-8807-d75d11efc5db.png">
 ![함수1](https://user-images.githubusercontent.com/81945553/132239253-50023fcd-c844-4c2a-b49f-207b91014d0b.png)
 ![함수2](https://user-images.githubusercontent.com/81945553/132239564-2de99fab-b7ca-4a5a-834a-bf699c6dd0f8.png)
 ![함수3](https://user-images.githubusercontent.com/81945553/132239807-09039c05-b667-4621-8aa6-e90b53aea48f.png)
