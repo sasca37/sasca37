@@ -22,8 +22,6 @@
 💬 Hi! I'm **backend developer** using Spring Boot and Java.   
 The reason I want to be a developer is through the first application development.  
 It was because of the sense of accomplishment that improved daily discomfort.
-
-
 ⚡ Teck Stack ⚡
 ---
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
@@ -39,7 +37,6 @@ It was because of the sense of accomplishment that improved daily discomfort.
      - Querydsl, JPA
      - Junit4, Junit5 
      - Gradle 
-
 - Clean Code 
 - TDD
 
