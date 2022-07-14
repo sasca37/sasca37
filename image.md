@@ -2,6 +2,8 @@
 <img width="1151" alt="image" src="https://user-images.githubusercontent.com/81945553/176993160-b25d61bf-920c-48b6-bf04-3f371b5ad8a2.png">
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/81945553/177920854-0636e2b3-fcc3-43c9-aecb-9a91aea5484e.png">
 <img width="649" alt="image" src="https://user-images.githubusercontent.com/81945553/177921285-9dfe5833-ca71-497e-aacb-42cd071ca69a.png">
+<img width="366" alt="image" src="https://user-images.githubusercontent.com/81945553/178898608-9f001c0c-2f1d-4486-b10c-c40dc8095a3c.png">
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/81945553/178928646-88ea2a19-247e-4612-9b06-597be308e0a4.png">
 
 <img width="990" alt="image" src="https://user-images.githubusercontent.com/81945553/176166113-00bdbb18-a392-428d-b4bb-55b3c648b861.png">
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/81945553/175778141-a972680e-5419-4cc8-9b77-502659b7d79b.png">
