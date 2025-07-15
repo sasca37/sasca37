@@ -33,22 +33,16 @@ Java, Spring 기반의 3년차 백엔드 개발자입니다.
 ### Backend
 
 
-`Java`, `Spring f/w` , `Mybatis`,  `Jpa` 
-
-Mybatis, Querydsl, Junit5, Kotlin
+`Java`, `Spring f/w` , `Mybatis`,  `Jpa` , Mybatis, Querydsl, Junit5, Kotlin
 
 ### DevOps
 
-`Aws` , `Docker`, `Linux`
-
-Nginx, Linux, Kafka, Travis ci, k8s, Gcp
+`Aws` , `Docker`, `Linux`, Nginx, Linux, Kafka, Travis ci, k8s, Gcp
 
 ### Database
 
 
-`Oracle`, `Mysql` 
-
-Redis,  Vertica, MongoDB, Postgresql
+`Oracle`, `Mysql` , Redis,  Vertica, MongoDB, Postgresql
 
 ### Frontend
 
